@@ -1,4 +1,4 @@
-# Sass - css simple example
+# sass - css simple example
 
 Basic useful feature list:
 
