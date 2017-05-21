@@ -1,0 +1,14 @@
+.message, .success, .error, .warning {
+  padding: 3px;
+  color: #333; }
+
+.success {
+  border: 1px soild green !important; }
+
+.error {
+  border-color: green; }
+
+.warning {
+  border-color: green; }
+
+/*# sourceMappingURL=style.css.map */

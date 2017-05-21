@@ -1,0 +1,28 @@
+// Nested CSS properties
+$myFontSize1 : 12px;
+$myFontSize2 : 18px;
+$myFontSize3 : 21px;
+$h1Color : red;
+$h2Color : blue;
+$myWidth : 540px;
+$myMargin : 0px auto;
+
+#container
+{
+  width: $myWidth;
+  margin: $myMargin;
+  p {
+    font-family: Arial;
+    font-size: $myFontSize1;
+  }
+  h1 {
+    font-family: Arial;
+    font-size: $myFontSize2;
+    color: $h1Color;
+  }
+  h2 {
+    font-family: Arial;
+    font-size: $myFontSize3;
+    color: $h2Color;
+  }
+}

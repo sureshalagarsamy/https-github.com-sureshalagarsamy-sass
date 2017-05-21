@@ -1,0 +1,23 @@
+$myMargin : 0px auto;
+$myColor:red;
+$myWidth: 600px;
+$myFontSize:12px;
+
+// Nested CSS properties
+$myFontSize1 : 12px;
+$myFontSize2 : 18px;
+$myFontSize2 : 21px;
+$myWidth : 540px;
+
+h1
+{
+  color: $myColor;
+  width: $myWidth;
+  margin : $myMargin;
+}
+
+#container
+{
+  width : $myWidth;
+  margin: $myMargin;
+}

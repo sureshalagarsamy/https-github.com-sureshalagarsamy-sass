@@ -1,0 +1,26 @@
+@mixin basicBorder
+{
+    border: 1px solid red;
+}
+
+@mixin setBorder($myPx, $myColor)
+{
+  border: $myPx solid $myColor;
+}
+
+#container
+{
+  width: 540px;
+  margin: 0 auto;
+  @include basicBorder;
+}
+
+h1
+{
+  @include setBorder(1px, green);
+}
+
+h2
+{
+  @include setBorder(5px, blue);
+}

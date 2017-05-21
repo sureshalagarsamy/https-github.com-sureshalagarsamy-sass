@@ -1,0 +1,23 @@
+@mixin borderExtend($myColor) {
+    border: 1px solid $myColor;
+}
+.message
+{
+  padding: 3px;
+  color: #333;
+}
+.success
+{
+  @extend .message;
+  @include borderExtend(green);
+}
+.error
+{
+  @extend .message;
+  border-color: green;
+}
+.warning
+{
+  @extend .message;
+  border-color: green;
+}

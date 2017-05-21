@@ -1,0 +1,12 @@
+#container {
+  width: 540px;
+  margin: 0 auto;
+  border: 1px solid red; }
+
+h1 {
+  border: 1px solid green; }
+
+h2 {
+  border: 5px solid blue; }
+
+/*# sourceMappingURL=style.css.map */
