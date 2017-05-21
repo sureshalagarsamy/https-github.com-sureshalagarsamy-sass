@@ -22,4 +22,5 @@ For any clarifications please download this repo or fork and try from your end.
 
 ![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26285639/2da49b72-3e71-11e7-862a-b0850f5187a2.png)
 
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
+### OUTPUT
+>![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26285731/dbcb97f4-3e72-11e7-804d-a082e6032e9f.png)
