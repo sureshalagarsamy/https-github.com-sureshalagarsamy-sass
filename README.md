@@ -23,4 +23,4 @@ For any clarifications please download this repo or fork and try from your end.
 ![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26285639/2da49b72-3e71-11e7-862a-b0850f5187a2.png)
 
 ### OUTPUT
->![ScreenShot](https://cloud.githubusercontent.com/assets/6780840/26285731/dbcb97f4-3e72-11e7-804d-a082e6032e9f.png)
+![image](https://user-images.githubusercontent.com/6780840/28211382-fca86d14-68b9-11e7-82c5-24c4d1a262f7.png)
