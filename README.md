@@ -3,7 +3,7 @@
 Basic useful feature list:
 
  * It will convert all scss to css on the fly.
- * write once get proper styelsheet to your application.
+ * write once and get proper styelsheet to your application.
 
 
 This example will give you on brief idea about simple sass coding and compiling solution.
